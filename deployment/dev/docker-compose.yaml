@@ -23,5 +23,5 @@ services:
       - 1080:8025
     environment:
       SMTP_PORT: 1025
-      SMTP_USERNAME: sarthik@sarthikg.com
+      SMTP_USERNAME: yugesh@yugeshjain.com
       SMTP_PASSWORD: password

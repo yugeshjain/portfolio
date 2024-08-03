@@ -1,5 +1,5 @@
 {
-  "name": "Sarthik's Portfolio Website",
+  "name": "Yugesh's Portfolio Website",
   "dockerComposeFile": "../deployment/dev/docker-compose.yaml",
   "service": "app_server",
   "workspaceFolder": "/app",

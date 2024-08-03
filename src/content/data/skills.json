@@ -1,38 +1,62 @@
 [
   {
-    "name": "Angular",
-    "iconName": "angular",
-    "description": "Frontend Application Framework",
-    "url": "https://angular.dev/"
+    "name": "Kotlin",
+    "iconName": "kotlin",
+    "description": "Primary Programming Language",
+    "url": "https://kotlinlang.org/"
   },
   {
-    "name": "React",
-    "iconName": "react",
-    "description": "Frontend Application Library",
-    "url": "https://react.dev/"
+    "name": "Java",
+    "iconName": "java",
+    "description": "Alternative Programming Language",
+    "url": "https://www.java.com/en/"
   },
   {
-    "name": "Astro",
-    "iconName": "astro",
-    "description": "Full-Stack Application Framework",
-    "url": "https://astro.build/"
+    "name": "Android Studio",
+    "iconName": "androidstudio",
+    "description": "Official IDE",
+    "url": "https://developer.android.com/studio"
   },
   {
-    "name": "Flask",
-    "iconName": "flask",
-    "description": "Backend Application Framework",
-    "url": "https://flask.palletsprojects.com"
+    "name": "Android SDK",
+    "iconName": "androidsdk",
+    "description": "Software Development Kit",
+    "url": "https://developer.android.com/studio/command-line/sdkmanager"
   },
   {
-    "name": "Docker",
-    "iconName": "docker",
-    "description": "Container Management",
-    "url": "https://www.docker.com/"
+    "name": "Jetpack Compose",
+    "iconName": "jetpackcompose",
+    "description": "Modern UI Toolkit",
+    "url": "https://developer.android.com/jetpack/compose"
   },
   {
-    "name": "GraphQL",
-    "iconName": "graphql",
-    "description": "Query Language",
-    "url": "https://graphql.org/"
+    "name": "XML",
+    "iconName": "xml",
+    "description": "Traditional UI Layout Language",
+    "url": "https://developer.android.com/guide/topics/resources/xml"
+  },
+  {
+    "name": "MVVM (Model-View-ViewModel)",
+    "iconName": "mvvm",
+    "description": "Popular Architectural Pattern",
+    "url": "https://developer.android.com/jetpack/androidx/architecture/viewmodel"
+  },
+  {
+    "name": "Clean Architecture",
+    "iconName": "cleanarchitecture",
+    "description": "Robust Architectural Approach",
+    "url": "https://8thlight.com/blog/2017/08/08/the-clean-architecture/"
+  },
+  {
+    "name": "Jetpack Architecture Components",
+    "iconName": "jetpack",
+    "description": "Libraries for Architectural Patterns",
+    "url": "https://developer.android.com/jetpack/androidx/libraries"
+  },
+  {
+    "name": "Firebase",
+    "iconName": "firebase",
+    "description": "Backend-as-a-Service",
+    "url": "https://firebase.google.com/"
   }
 ]

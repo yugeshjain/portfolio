@@ -1,4 +1,4 @@
-# sarthikg.com
+# yugeshjain.com
 
 > My portfolio website ❤️
 
@@ -13,7 +13,7 @@
 1. Clone this repo:
 
    ```sh
-     git clone https://github.com/sarthikg/portfolio.git
+     git clone https://github.com/yugeshjain/portfolio.git
    ```
 
 2. Navigate to the project folder:
@@ -41,7 +41,7 @@
 1. Clone this repo:
 
    ```sh
-     git clone https://github.com/sarthikg/portfolio.git
+     git clone https://github.com/yugeshjain/portfolio.git
    ```
 
 2. Navigate to the project folder:
@@ -67,7 +67,7 @@
 1. Clone this repo:
 
    ```sh
-     git clone https://github.com/sarthikg/portfolio.git
+     git clone https://github.com/yugeshjain/portfolio.git
    ```
 
 2. Navigate to the project folder:
