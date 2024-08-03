@@ -36,22 +36,10 @@
     "url": "https://developer.android.com/guide/topics/resources/xml"
   },
   {
-    "name": "MVVM (Model-View-ViewModel)",
-    "iconName": "mvvm",
-    "description": "Popular Architectural Pattern",
-    "url": "https://developer.android.com/jetpack/androidx/architecture/viewmodel"
-  },
-  {
-    "name": "Clean Architecture",
-    "iconName": "cleanarchitecture",
-    "description": "Robust Architectural Approach",
-    "url": "https://8thlight.com/blog/2017/08/08/the-clean-architecture/"
-  },
-  {
-    "name": "Jetpack Architecture Components",
-    "iconName": "jetpack",
-    "description": "Libraries for Architectural Patterns",
-    "url": "https://developer.android.com/jetpack/androidx/libraries"
+    "name": "Flutter",
+    "iconName": "flutter",
+    "description": "Build apps for any screen",
+    "url": "https://flutter.dev/"
   },
   {
     "name": "Firebase",

@@ -5,6 +5,7 @@ export const sideQuestSchema = defineCollection({
   type: "content",
   schema: ({ image }) =>
     z.object({
+      url: z.string(),
       title: z.string(),
       description: z.string(),
       image: z.object({

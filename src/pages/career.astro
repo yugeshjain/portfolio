@@ -35,7 +35,7 @@ const { Content } = await pageInfo.render();
         <CareerTrack experiences={experiences} />
       </div>
     </Section>
-    <Section title="Side Quests">
+    <Section title="Projects">
       <div class="career__side-quests">
         {
           sideQuests.map((quest) => (
@@ -44,7 +44,7 @@ const { Content } = await pageInfo.render();
               title={quest.data.title}
               description={quest.data.description}
               image={quest.data.image}
-              url={`/article/${quest.slug}/`}
+              url={quest.data.url}
             />
           ))
         }
