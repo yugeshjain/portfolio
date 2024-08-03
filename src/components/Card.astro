@@ -16,7 +16,7 @@ interface Props {
 const { slug, title, description, image, url } = Astro.props;
 ---
 
-<a class="card" href={url}>
+<a class="card" href={url} target="_blank">
   <Image
     class="card__image"
     transition:name={`article_image_${slug}`}
