@@ -3,7 +3,7 @@ import vercel from "@astrojs/vercel/serverless";
 import sitemap from "@astrojs/sitemap";
 
 export default defineConfig({
-  site: "https://sarthikg.com/",
+  site: "https://yugeshjain.com/",
   output: "hybrid",
   trailingSlash: "always",
   adapter: vercel({

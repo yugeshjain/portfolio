@@ -1,7 +1,6 @@
 export enum NavbarPage {
   About = "About",
   Career = "Career",
-  Articles = "Articles",
   Contact = "Contact",
 }
 

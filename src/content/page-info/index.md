@@ -1,7 +1,7 @@
 ---
-title: "Sarthik Gupta"
+title: "Yugesh Jain"
 imageUrl: "/src/assets/images/og/snapshot.webp"
-pageUrl: "https://sarthikg.com/"
+pageUrl: "https://yugeshjain.com/"
 ---
 
-Full-Stack Web Developer
+Android Developer
